@@ -2,4 +2,8 @@
 
 from .world_model import WorldModel
 
-__all__ = ["WorldModel"]
+try:
+    from .transformer import TransformerConfig, TransformerWorldModel, WorldModelTrainer
+    __all__ = ["WorldModel", "TransformerConfig", "TransformerWorldModel", "WorldModelTrainer"]
+except ImportError:
+    __all__ = ["WorldModel"]
