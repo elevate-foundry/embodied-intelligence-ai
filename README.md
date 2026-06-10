@@ -96,3 +96,17 @@ Success is observing behaviors that:
 ## License
 
 MIT License
+
+<!-- ELEVATE:BEGIN (auto-generated section; edits here are overwritten) -->
+## About
+
+| | |
+| --- | --- |
+| **Description** | An embodied intelligence AI project focusing on physical world interaction and learning |
+| **Language** | Python |
+| **Commits** | 3 |
+| **Created** | 2026-01-07 |
+| **Last push** | 2026-01-07 |
+
+Part of [**elevate-foundry**](https://github.com/elevate-foundry) · [repository](https://github.com/elevate-foundry/embodied-intelligence-ai)
+<!-- ELEVATE:END -->
